@@ -1,0 +1,1 @@
+{"model_name": "gru", "n_dynamic": 7, "n_static": 9, "cfg": {"\u00ef\u00bb\u00bfhidden_size": 256, "num_layers": 2, "dropout": 0.4, "seq_len": 365, "batch_size": 512, "lr": 0.001, "weight_decay": 1e-05, "epochs": 10, "patience": 3, "scheduler": "cosine_annealing"}}

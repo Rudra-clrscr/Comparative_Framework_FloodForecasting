@@ -1,0 +1,12 @@
+data/raw/
+data/processed/
+__pycache__/
+*.pyc
+*.pyo
+.eggs/
+*.egg-info/
+.env
+venv313/
+results/metrics/rf_model.pkl
+results/metrics/xgb_model.pkl
+results/metrics/*_best.pt
